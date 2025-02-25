@@ -38,9 +38,6 @@ DATABASE_TENANT=your_tenant
 # Flask Configuration
 FLASK_APP=src/server/app.py
 FLASK_ENV=development
-
-# Frontend Configuration
-VITE_API_URL=http://localhost:5001
 ```
 
 ## Local Development Setup
@@ -139,9 +136,6 @@ The backend uses:
 ### Flask Configuration
 - `FLASK_APP`: Path to the Flask application (default: src/server/app.py)
 - `FLASK_ENV`: Environment mode (development/production)
-
-### Frontend Configuration
-- `VITE_API_URL`: API URL for the frontend (default: http://localhost:5001)
 
 ## Contributing
 1. Fork the repository
