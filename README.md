@@ -44,7 +44,7 @@ FLASK_ENV=development
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dq-break-records.git
+git clone https://github.com/mearnsb/dq-break-records.git
 cd dq-break-records
 ```
 
